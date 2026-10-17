@@ -1,4 +1,4 @@
-# bi-etl-pipeline
+# python-sql-Chunk-etl-pipeline
 
 **Portfolio project | Business Intelligence • Data Engineering • SQL Server • SSIS**
 
@@ -75,7 +75,7 @@ Review staged files and secrets before pushing. The sample CSV is deliberately u
 
 ---
 
-# bi-etl-pipeline (فارسی)
+# python-sql-Chunk-etl-pipeline (فارسی)
 
 **پروژه نمونه‌کار هوش تجاری و مهندسی داده؛ Python، SQL Server و SSIS**
 
